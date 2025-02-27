@@ -22,7 +22,7 @@ The input dataset should be a CSV file containing EEG features with a label colu
 - TensorFlow/Keras
 
 ## File Structure
-- `mental-state.csv` - EEG dataset (ensure it is available in the working directory).
+- `mental-state.csv` - EEG dataset 
 - `main.py` - The main script for training the autoencoder and classifier.
 
 ## How to Run
